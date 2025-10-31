@@ -2,7 +2,7 @@
 
 A simple Haskell parser that handles variable declarations, type signatures, and basic expressions. Built using Python's PLY (Python Lex-Yacc) library.
 
-## 🔍 What's Inside?
+## What's Inside?
 
 This project contains:
 - **Lexer**: Breaks down code into tokens
